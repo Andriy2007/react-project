@@ -1,0 +1,13 @@
+.Genres {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.light {
+    background-color: #b2acac;
+    color: #000000;
+}
+.dark {
+    background-color: #646363;
+    color: #ffffff;
+}

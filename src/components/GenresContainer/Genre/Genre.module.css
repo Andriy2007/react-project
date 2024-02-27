@@ -1,0 +1,16 @@
+.Genre {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    width: 10%;
+}
+.buttonGenre {
+    font-size: 21px;
+    text-decoration: none;
+    color: yellow;
+    cursor: pointer;
+}
+.buttonGenre:hover {
+    text-decoration: underline;
+}
